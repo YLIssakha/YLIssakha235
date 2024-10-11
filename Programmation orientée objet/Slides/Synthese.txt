@@ -1,0 +1,9 @@
+- utilisation du langage C#
+->
+utilisation .net new project 
+on aura tout le templet de commande 
+app en ligne de console 
+doner un nom 
+citer le dossier 
+
+- 

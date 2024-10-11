@@ -1,0 +1,2 @@
+digramme de classe : on attribue un objet a chaque classe
+f
