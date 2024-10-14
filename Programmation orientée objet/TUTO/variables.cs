@@ -29,3 +29,16 @@ public GameObjet leNom;
 // Exemples connus
 
 
+
+Console.WriteLine("Hello, World!");
+
+
+// console = objetà utiliser
+// Wriline = ecrire une ligne est une methode d'objet tjrs en jaune
+// ()= passage de paramètres
+// il faut tjrs un ; 
+
+
+// Affectation de variable 
+
+Console.Readl

@@ -1,0 +1,15 @@
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\bin\Debug\net8.0\MonProjet.exe
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\bin\Debug\net8.0\MonProjet.deps.json
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\bin\Debug\net8.0\MonProjet.runtimeconfig.json
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\bin\Debug\net8.0\MonProjet.dll
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\bin\Debug\net8.0\MonProjet.pdb
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\obj\Debug\net8.0\MonProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\obj\Debug\net8.0\MonProjet.AssemblyInfoInputs.cache
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\obj\Debug\net8.0\MonProjet.AssemblyInfo.cs
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\obj\Debug\net8.0\MonProjet.csproj.CoreCompileInputs.cache
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\obj\Debug\net8.0\MonProjet.sourcelink.json
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\obj\Debug\net8.0\MonProjet.dll
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\obj\Debug\net8.0\refint\MonProjet.dll
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\obj\Debug\net8.0\MonProjet.pdb
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\obj\Debug\net8.0\MonProjet.genruntimeconfig.cache
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\test\MonProjet\obj\Debug\net8.0\ref\MonProjet.dll
