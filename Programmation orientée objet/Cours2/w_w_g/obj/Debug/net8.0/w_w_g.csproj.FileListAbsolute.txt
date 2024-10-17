@@ -1,0 +1,15 @@
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\bin\Debug\net8.0\w_w_g.exe
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\bin\Debug\net8.0\w_w_g.deps.json
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\bin\Debug\net8.0\w_w_g.runtimeconfig.json
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\bin\Debug\net8.0\w_w_g.dll
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\bin\Debug\net8.0\w_w_g.pdb
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\obj\Debug\net8.0\w_w_g.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\obj\Debug\net8.0\w_w_g.AssemblyInfoInputs.cache
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\obj\Debug\net8.0\w_w_g.AssemblyInfo.cs
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\obj\Debug\net8.0\w_w_g.csproj.CoreCompileInputs.cache
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\obj\Debug\net8.0\w_w_g.sourcelink.json
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\obj\Debug\net8.0\w_w_g.dll
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\obj\Debug\net8.0\refint\w_w_g.dll
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\obj\Debug\net8.0\w_w_g.pdb
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\obj\Debug\net8.0\w_w_g.genruntimeconfig.cache
+C:\Users\yayal\OneDrive - ECAM\Bureau\ECAM\BAC3\Software engineering 1\Programmation orientée objet\Cours2\w_w_g\obj\Debug\net8.0\ref\w_w_g.dll
